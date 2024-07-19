@@ -14,7 +14,7 @@ Steps to run
 3. Start Kafka
 4. Start producer
    python3 producer.py
-5. Start Consumers
+6. Start Consumers
    python3 consumer1.py topic1 topic2 topic3
    python3 consumer2.py topic1 topic2 topic3
    python3 consumer3.py topic1 topic2 topic3
